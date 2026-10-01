@@ -1,5 +1,7 @@
 # Starter files for Cascadia College Computer Science Placement Test
 
-- [Java Starter File](./PlacementTest.java)\
-- [C++ Starter File](./placement_test.cpp)\
-- [Python Starter File](./placement_test.py)
+You may need to right-click on a file and then select "Save Link As..."
+
+- <a href="placement_test.py" download>placement_test.py</a>
+- <a href="placement_test.cpp" download>placement_test.cpp</a>
+- <a href="PlacementTest.java" download>PlacementTest.java</a>
